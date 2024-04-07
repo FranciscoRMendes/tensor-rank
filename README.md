@@ -1,2 +1,4 @@
 # tensor-rank
-tensor rank approximation approaches to neural network
+Clone the repo and place Optimize Rank and TensorList in the same directory. 
+
+$e = mc^2$ 
